@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá me chamo Nícolas Bonzanini, e estou estudando desnvolvimento em HTML e CSS.
 
 <!--
 **NicolasBonzanini0/NicolasBonzanini0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
