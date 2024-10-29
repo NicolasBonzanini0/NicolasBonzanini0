@@ -1,8 +1,12 @@
 ## Olá me chamo Nícolas Bonzanini, e estou estudando desnvolvimento em:
 
 ![image](https://github.com/user-attachments/assets/f2dc253e-ec59-444e-8845-93861d34b26f)
-
+<br/>
 ![image](https://github.com/user-attachments/assets/20fb2d57-0836-4a78-b218-23f05a254f71)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBonzanini0&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBonzanini0&layout=compact)
 
 
 
