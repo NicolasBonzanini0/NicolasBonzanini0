@@ -1,6 +1,9 @@
 ## Olá me chamo Nícolas Bonzanini, e estou estudando desnvolvimento em HTML5 e CSS3.
 
-https://camo.githubusercontent.com/001d4637c08910acf414f12a1682879a1f99867f6f9a3550f0541e7d03dd34a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465
+![image](https://github.com/user-attachments/assets/f2dc253e-ec59-444e-8845-93861d34b26f)
+![image](https://github.com/user-attachments/assets/20fb2d57-0836-4a78-b218-23f05a254f71)
+
+
 
 <!--
 **NicolasBonzanini0/NicolasBonzanini0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
