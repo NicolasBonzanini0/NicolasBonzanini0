@@ -4,23 +4,9 @@
 <br/>
 ![image](https://github.com/user-attachments/assets/20fb2d57-0836-4a78-b218-23f05a254f71)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBonzanini0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBonzanini0&layout=compact)
+<div>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NicolasBonzanini0&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&bg_color=000&title_color=83fbff&text_color=FFF&border_radius=3&border_color=4c73cf&icon_color=2ba8fb&theme=jolly" alt="GitHub stats">
+ 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NicolasBonzanini0&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=4ccbcfs&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=4c73cf&count_private=true" alt="Most Used Languages">
+  </div>
 
-
-
-
-<!--
-**NicolasBonzanini0/NicolasBonzanini0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
