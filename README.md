@@ -1,4 +1,4 @@
-## Olá me chamo Nícolas Bonzanini, e estou estudando desnvolvimento em:
+## Olá me chamo Nícolas Bonzanini, e estou estudando desenvolvimento em:
 
 ![image](https://github.com/user-attachments/assets/f2dc253e-ec59-444e-8845-93861d34b26f)
 <br/>
