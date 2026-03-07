@@ -1,7 +1,6 @@
-<h2 align="center">Hello 👋! My name is Nícolas and I'm a frontend student from Brazil.</h2>
+<h2 align="center">Hello 👋! My name is Nícolas and I'm a Software Engineer student from Brazil.</h2>
 
 <div align="left">
-  <h3 align="left">My Stack</h3>
 
 </div>
 
