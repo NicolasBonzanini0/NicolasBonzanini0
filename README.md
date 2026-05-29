@@ -72,13 +72,6 @@
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicolasBonzanini0&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" />
-</div>
-
----
 
 ## 🤝 Vamos nos conectar!
 
