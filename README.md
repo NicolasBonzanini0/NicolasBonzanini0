@@ -49,16 +49,32 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicolasBonzanini0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NicolasBonzanini0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicolasBonzanini0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NicolasBonzanini0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </div>
 
+---
+
+## 🐍 Cobrinha de Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasBonzanini0/NicolasBonzanini0/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/NicolasBonzanini0/NicolasBonzanini0/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📈 Gráfico de Atividade
+
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasBonzanini0&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasBonzanini0&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" />
+---
 
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NicolasBonzanini0&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" />
 </div>
 
 ---
@@ -74,7 +90,5 @@
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NicolasBonzanini0&color=00D4FF&style=flat-square&label=Visitas+ao+perfil" />
-
+  <img src="https://komarev.com/ghpvc/?username=NicolasBonzanini0&color=00D4FF&style=flat-square&label=Visitas+ao+perfil" />
 </div>
