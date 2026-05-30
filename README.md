@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Nícolas Bonzanini!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF¢er=true&vCenter=true&width=600&lines=Engenharia+de+Software+%F0%9F%8E%93;Estudando+AWS+%E2%98%81%EF%B8%8F;Desenvolvedor+Web+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Engenharia+de+Software+%F0%9F%8E%93;Estudando+AWS+%E2%98%81%EF%B8%8F;Desenvolvedor+Web+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -46,11 +46,32 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🏆 Conquistas DIO
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicolasBonzanini0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NicolasBonzanini0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+
+[![DIO Profile](https://img.shields.io/badge/DIO-Nícolas%20Bonzanini-FF6B35?style=for-the-badge&logo=dio&logoColor=white)](https://web.dio.me/users/nicolasbonzaribeiro)
+
+| Conquista | Área |
+|-----------|------|
+| 🟠 Gerenciando Instâncias EC2 na AWS | Cloud |
+| 🟠 Armazenamento na Nuvem com Amazon EBS e S3 | Cloud |
+| 🟠 Entendendo as Instâncias EC2 e Otimização de Recursos | Cloud |
+| 🟠 Primeiros Passos com Acesso Seguro e Controle de Custos | Cloud |
+| 🟠 Configurando sua Conta AWS com Segurança e Eficiência | Cloud |
+| 🟠 Fundamentos Essenciais da Infraestrutura AWS | Cloud |
+| 🟠 Introdução à AWS e ao Universo da Computação em Nuvem | Cloud |
+| 🏅 Boas-vindas Bootcamp GFT - Fundamentos de Cloud com AWS | Bootcamp |
+
+</div>
+
+## 📊 Estatísticas GitHub
+
+---
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicolasBonzanini0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=NicolasBonzanini0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </div>
 
 ---
@@ -71,7 +92,6 @@
 </div>
 
 ---
-
 
 ## 🤝 Vamos nos conectar!
 
