@@ -1,23 +1,23 @@
 <div align="center">
 
-# 👋 Olá, eu sou Nícolas Bonzanini!
+# 👋 Hi, I'm Nícolas Bonzanini!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Engenharia+de+Software+%F0%9F%8E%93;Estudando+AWS+%E2%98%81%EF%B8%8F;Desenvolvedor+Web+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineering+%F0%9F%8E%93;Studying+AWS+%E2%98%81%EF%B8%8F;Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About Me
 
-- 🎓 Estudante de **Engenharia de Software** na **FSG** — Caxias do Sul, Brasil
-- ☁️ Atualmente estudando **AWS** e serviços em nuvem
-- 🌐 Desenvolvendo projetos com **HTML**, **CSS** e **JavaScript**
-- 🚀 Sempre em busca de aprender algo novo e evoluir como profissional
+- 🎓 **Software Engineering** student at **FSG** — Caxias do Sul, Brazil
+- ☁️ Currently studying **AWS** and cloud services
+- 🌐 Building projects with **HTML**, **CSS** and **JavaScript**
+- 🚀 Always looking to learn something new and grow as a professional
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## ☁️ Estudando atualmente
+## ☁️ Currently Studying
 
 <div align="center">
 
@@ -46,46 +46,49 @@
 
 ---
 
-## 🏆 Conquistas DIO
+## 🏆 DIO Achievements
 
 <div align="center">
 
 [![DIO Profile](https://img.shields.io/badge/DIO-Nícolas%20Bonzanini-FF6B35?style=for-the-badge&logo=dio&logoColor=white)](https://web.dio.me/users/nicolasbonzaribeiro)
 
-| Conquista | Área |
-|-----------|------|
-| 🟠 Gerenciando Instâncias EC2 na AWS | Cloud |
-| 🟠 Armazenamento na Nuvem com Amazon EBS e S3 | Cloud |
-| 🟠 Entendendo as Instâncias EC2 e Otimização de Recursos | Cloud |
-| 🟠 Primeiros Passos com Acesso Seguro e Controle de Custos | Cloud |
-| 🟠 Configurando sua Conta AWS com Segurança e Eficiência | Cloud |
-| 🟠 Fundamentos Essenciais da Infraestrutura AWS | Cloud |
-| 🟠 Introdução à AWS e ao Universo da Computação em Nuvem | Cloud |
-| 🏅 Boas-vindas Bootcamp GFT - Fundamentos de Cloud com AWS | Bootcamp |
+| Achievement | Area |
+|-------------|------|
+| 🟠 Managing EC2 Instances on AWS | Cloud |
+| 🟠 Cloud Storage with Amazon EBS and S3 | Cloud |
+| 🟠 Understanding EC2 Instances and Resource Optimization | Cloud |
+| 🟠 First Steps with Secure Access and Cost Control on AWS | Cloud |
+| 🟠 Setting Up Your AWS Account with Security and Efficiency | Cloud |
+| 🟠 Essential Fundamentals of AWS Infrastructure | Cloud |
+| 🟠 Introduction to AWS and Cloud Computing | Cloud |
+| 🏅 Welcome Bootcamp GFT - Cloud Fundamentals with AWS | Bootcamp |
 
 </div>
 
-## 📊 Estatísticas GitHub
-
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicolasBonzanini0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=NicolasBonzanini0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=NicolasBonzanini0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </div>
 
 ---
 
-## 🐍 Cobrinha de Contribuições
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasBonzanini0/NicolasBonzanini0/output/github-contribution-grid-snake-dark.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/NicolasBonzanini0/NicolasBonzanini0/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
+
 ---
 
-## 📈 Gráfico de Atividade
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasBonzanini0&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" />
@@ -93,7 +96,7 @@
 
 ---
 
-## 🤝 Vamos nos conectar!
+## 🤝 Let's Connect!
 
 <div align="center">
 
@@ -104,5 +107,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NicolasBonzanini0&color=00D4FF&style=flat-square&label=Visitas+ao+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=NicolasBonzanini0&color=00D4FF&style=flat-square&label=Profile+Views" />
 </div>
