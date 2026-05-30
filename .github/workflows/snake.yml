@@ -2,11 +2,11 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # roda a cada 24h
-  workflow_dispatch:  # permite rodar manualmente
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -14,7 +14,6 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
