@@ -70,6 +70,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicolasBonzanini0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
   <img width="60%" src="https://streak-stats.demolab.com?user=NicolasBonzanini0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </div>
 
